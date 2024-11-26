@@ -1,0 +1,33 @@
+{
+  "MONGODB_CLIENT": "mongodb-atlas",
+  "MONGODB_DB": "dev",
+  "MONGODB_APP_ID": "admin-dnnkmcy",
+  "MONGODB_APP_ID_GENERAL": "",
+  "PERMISSIONS": [
+    {
+      "page": "Role",
+      "read": "roleRead",
+      "readWrite": "roleReadWrite"
+    },
+    {
+      "page": "Users",
+      "read": "usersRead",
+      "readWrite": "usersReadWrite"
+    },
+    {
+      "page": "Customers",
+      "read": "customersRead",
+      "readWrite": "customersReadWrite"
+    },
+    {
+      "page": "CMS Management",
+      "read": "cmsRead",
+      "readWrite": "cmsReadWrite"
+    },
+    {
+      "page": "App Settings",
+      "read": "appSettingsRead",
+      "readWrite": "appSettingsReadWrite"
+    }
+  ]
+}

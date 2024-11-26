@@ -1,0 +1,14 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.mediaone.mobile.android",
+        "sha256_cert_fingerprints": [
+          "51:5B:FA:B0:2F:7B:35:17:D7:30:3F:30:A0:F2:AF:CE:FC:67:55:02:2D:A0:17:27:50:06:87:C1:40:36:37:6A"
+        ]
+      }
+    }
+]
